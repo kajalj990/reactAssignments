@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should change state 1`] = `
+<div>
+  <label
+    className="switch"
+  >
+    <input
+      onClick={[Function]}
+      type="checkbox"
+    />
+    <span
+      className="slider round"
+    />
+  </label>
+  <div
+    className="design"
+  >
+    <h1>
+      9:55:43
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`Should match 1`] = `ShallowWrapper {}`;
+
+exports[`Snapshot 1`] = `
+<div>
+  <label
+    className="switch"
+  >
+    <input
+      onClick={[Function]}
+      type="checkbox"
+    />
+    <span
+      className="slider round"
+    />
+  </label>
+  <div
+    className="design"
+  >
+    <h1>
+      9:57:46
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`State Changes successfully 1`] = `ShallowWrapper {}`;
